@@ -1,0 +1,8 @@
+numpy
+librosa
+matplotlib
+soundfile
+scikit-fuzzy
+transformers
+sounddevice
+tk
