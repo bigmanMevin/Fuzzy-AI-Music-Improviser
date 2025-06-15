@@ -1,6 +1,6 @@
 # Fuzzy-AI-Music-Improviser
 A creative music improvisation tool that blends AI and fuzzy logic to apply expressive audio effects like pitch, tempo, and reverb based on user input or music style descriptions. Built with Python and Tkinter.
-# 🎶 Music Improvisation and Effects Tool
+#  Music Improvisation and Effects Tool
 
 This project is a Python-based desktop application that lets you load an audio file and apply creative effects like pitch shift, reverb, distortion, and tempo changes. You can control everything manually using sliders or let the built-in AI suggest settings based on how you describe the music (e.g., "happy pop" or "sad jazz").
 
@@ -8,7 +8,7 @@ The idea is to make music editing more intuitive and expressive, especially for 
 
 ---
 
-## ✨ What It Can Do
+##  What It Can Do
 
 - Load and play audio files (like `.wav`, `.mp3`, or `.flac`)
 - Show waveform and spectrogram visualizations of the audio
@@ -19,7 +19,7 @@ The idea is to make music editing more intuitive and expressive, especially for 
 
 ---
 
-## 🖥 How to Run It
+##  How to Run It
 
 1. **Clone the repository:**
 ```bash
