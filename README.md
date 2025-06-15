@@ -19,10 +19,15 @@ The idea is to make music editing more intuitive and expressive, especially for 
 
 ---
 
+## Demo Video 
+[Watch the demo on Google Drive]
+Link: https://drive.google.com/file/d/1tsblVz7JGKnSAML6Jqk9-8FXxrBFsDNQ/view?usp=sharing
+
 ##  How to Run It
 
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Music-System.git
 cd AI-Music-System
+
 
