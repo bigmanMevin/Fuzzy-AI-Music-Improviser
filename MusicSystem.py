@@ -115,7 +115,7 @@ class StyleTransformer:
         if self.pipe is None:
             return 5, 5, 0  # Default values if model not available
             
-        prompt = f"""
+        prompt = f """
         Convert this music style into energy (0-10), complexity (0-10), and emotion (-10 to +10):
         "{description}"
         
@@ -125,7 +125,7 @@ class StyleTransformer:
         - "happy pop" → 7,5,8
         - "sad jazz" → 4,6,-7
         
-        Respond ONLY with three numbers separated by commas:
+        Respond ONLY with three numbers separated by commas: 
         """
         try:
             response = self.pipe(prompt, max_length=40,truncation=True)[0]['generated_text']
