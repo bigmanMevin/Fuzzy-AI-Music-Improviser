@@ -1,8 +1,10 @@
 numpy
 librosa
-matplotlib
 soundfile
+scipy
 scikit-fuzzy
 transformers
-sounddevice
+torch
 tk
+sounddevice
+matplotlib
